@@ -8,4 +8,4 @@ The rules to win are simple
 
 4) execute zeusfinal.exe and send a full video of the process of hacking it and full modus operandi to nm3897mel@gmail.com
 
-there is only one winner per track, it's a 24-hour hackathon, this is the real world, tie up your laces and run.
+there is only one winner per track, it's a 24-hour hackathon and certificates only for the winner this is the real world, tie up your laces and run.
